@@ -1,6 +1,7 @@
 /** Derived from DTGeometryAnalyzer by Nicola Amapane
  *
  *  \author M. Maggi - INFN Bari
+ *  \author A. Purohit - SINP Kolkata updated the code and changed the output format to HTML to make the output more user friendly.
  */
 
 #include "FWCore/Framework/interface/Frameworkfwd.h"
